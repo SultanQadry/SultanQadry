@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey there, I am Sultan Qadry 👋
 
-<!--
-**SultanQadry/SultanQadry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | RAG Pipelines & Vector Search Expert
 
-Here are some ideas to get you started:
+Designing and implementing custom LLM powered applications and dynamic retrieval systems along with local AI architectures using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack & Expertise
+
+- Languages & Frameworks: Python, SQL, PyTorch, TensorFlow, Hugging Face
+
+- AI / RAG Infrastructure: LangChain, LlamaIndex, Sentence Transformers, Reranking, Streamlit
+
+- Vector Databases & Storage: ChromaDB, Embedding Optimization
+
+- MLOps & Tooling: Docker, Git/GitHub, Environment Isolation
+
+---
+
+### 🚀 Highlighted Project: NovelAI
+
+A Retrieval-Augmented Generation (RAG) framework that is an open-source project built in Python with focus on Long context preservation[cite: 2].
+
+- Features: Sentence level chunking, ChromaDB vector search, cross-encoder reranking and inference using a local LLM[cite: 2].
+
+- Repository: [github.com/SultanQadry/NovelAI](https://github.com/SultanQadry/NovelAI)
+
+---
+
+### 📫 Get In Touch
+
+- 🌐 Portfolio: [myportfolio.com]([https](https://sultan-ai-engineer-portfolio.vercel.app)
+- 💼 **LinkedIn:**([https://linkedin.com/in/sultan-qadry](https://www.linkedin.com/in/sultan-qadry-7b23202bb/))
+- 📧 **Email:** [sultan8dry@gmail.com](mailto:sultan8dry@gmail.com)
