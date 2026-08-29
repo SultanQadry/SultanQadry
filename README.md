@@ -30,6 +30,6 @@ A Retrieval-Augmented Generation (RAG) framework that is an open-source project 
 
 ### 📫 Get In Touch
 
-- 🌐 Portfolio: [myportfolio.com]([https](https://sultan-ai-engineer-portfolio.vercel.app)
+- 🌐 Portfolio: [https](https://sultan-ai-engineer-portfolio.vercel.app)
 - 💼 **LinkedIn:**([https://linkedin.com/in/sultan-qadry](https://www.linkedin.com/in/sultan-qadry-7b23202bb/))
 - 📧 **Email:** [sultan8dry@gmail.com](mailto:sultan8dry@gmail.com)
