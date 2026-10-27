@@ -73,11 +73,23 @@
 
 ---
 
-### 🏆 OctoProfile & Achievements
+### 🏆 GitHub Achievements & Activity Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SultanQadry&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<a href="https://github.com/SultanQadry?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="65px" alt="Pull Shark" title="Pull Shark" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="65px" alt="Quickdraw" title="Quickdraw" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-76503c806509.png" width="65px" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad253.png" width="65px" alt="Starstruck" title="Starstruck" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SultanQadry&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Sultan's Contribution Graph" />
 
 </div>
 
